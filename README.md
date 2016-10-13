@@ -1,4 +1,4 @@
-Colorsublime Themes
+Monokai Dev
 ===================
 ![Monokai Dev](monokai-dev.jpg "Monokai-dev")
 
